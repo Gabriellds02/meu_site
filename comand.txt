@@ -1,0 +1,20 @@
+Criando projeto (django-admin startproject django_Geek_University .)
+Criando Aplicação (django-admin startapp core)
+Starta Server (python manage.py runserver)
+Start o Terminal (python manage.py shell)
+Migration (cria bd) (python manage.py makemigrations)
+Executar (python manage.py migrate)
+creat_usuario (python manage.py createsuperuser)
+
+Utilizando o Git
+Publicar o arquivo para versionamento (git init)
+Verificar Arquivos lançados (git status)
+Adicionar arquivos (git add .)
+Publicar (git commit -m "Projeto finalizado")
+Configurações (git config --global user.email "gabriellfdd@gmail.com")
+              (git config --global user.name "Gabriel Lisbôa")
+
+Atualizar o Requeriments.txt (pip freeze > requirements.txt)
+Arquivo Heroku ()
+heroku login (logar na conta reroku)
+heroku create "nome aplicação" --buildpack heroku/python (Cria aplicação heroku)
